@@ -1,0 +1,66 @@
+.div1 {
+  text-align: center;
+  direction: rtl;
+}
+
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  cursor: default;
+}
+
+body {
+  background-color: #475053;
+}
+
+.a1 {
+  color: #2e94b9;
+  font-size: 20px;
+  font-style: italic;
+  margin: 25px 0px;
+}
+.a1:hover {
+  font-size: 23px;
+}
+
+.Me {
+  border: black 5px groove;
+  width: 230px;
+  margin-bottom: 30px;
+}
+
+.Me:hover {
+  width: 240px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.L {
+  width: 200px;
+  color: #2e94b9;
+  margin-bottom: 15px;
+}
+
+.L:hover {
+  width: 210px;
+
+  color: aliceblue;
+}
+
+button {
+  background-color: #43496e;
+  font-size: 15px;
+  border: 1px black double;
+  border-radius: 5px;
+  margin: 25px 0px;
+}
+
+button a {
+  color: #00b8c0;
+}
+
+button:hover {
+  font-size: 17px;
+}
