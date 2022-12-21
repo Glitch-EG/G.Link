@@ -1,7 +1,9 @@
 * {
   font-family: Georgia, "Times New Roman", Times, serif;
   cursor: default;
-  margin: 0px;
+  margin: 0px; 
+   text-decoration: none;
+
 }
 
 body {
@@ -44,6 +46,7 @@ body {
 p {
   display: inline-block;
   padding: 20px 0px;
+
 }
 
 h2 {
@@ -73,6 +76,10 @@ button:hover {
 }
 
 button a {
-  text-decoration: none;
   color: #bdf9f7;
+}
+.a1:hover{
+
+font-size: 17px;
+
 }
