@@ -14,12 +14,11 @@ body {
 
 .a1 {
   color: #2e94b9;
-  font-size: 20px;
-  font-style: italic;
-  margin: 25px 0px;
+  font-size: 25px;
+  margin: 27px 0px;
 }
 .a1:hover {
-  font-size: 23px;
+  font-size: 27px;
 }
 
 .Me {
